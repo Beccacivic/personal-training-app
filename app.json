@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Personal Training",
+    "slug": "personal-training-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "personaltraining",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.beccacivic.personaltraining"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0E1B16"
+      },
+      "package": "com.beccacivic.personaltraining"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
